@@ -1,4 +1,4 @@
-package src;
+package basic_prgm;
 
 import java.util.*;
 
